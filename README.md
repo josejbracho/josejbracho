@@ -1,7 +1,7 @@
-#### Greetings! I’m Jose 🦔
-- Web Jedi Apprentice 📱
+#### Hi, I'm Jose 🦔
+- Web Jedi Apprentice 🖥
 - Baseball Fanatic ⚾️ 
-- Gamer 👾
+- Amateur Gamer 👾
 - Media Consumer 🎥
 
 #### Tools 🛠
