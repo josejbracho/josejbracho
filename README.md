@@ -2,7 +2,7 @@
 - Web Jedi Apprentice 📱
 - Baseball Fanatic ⚾️ 
 - Gamer 👾
-- Media consumer 🎥
+- Media Consumer 🎥
 
 #### Tools 🛠
 
