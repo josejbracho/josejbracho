@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @josejbracho
-- 👀 I’m interested in software development 📱, baseball ⚾️ and video games 👾!
-- 🌱 I’m currently learning JS and React.
-- 📫 You can reach me on twitter @jaybracho
+#### Greetings! I’m Jose 🦔
+- Web Jedi Apprentice 📱
+- Baseball Fanatic ⚾️ 
+- Gamer 👾
+- Media consumer 🎥
+
+#### Tools 🛠
+
+![image](https://user-images.githubusercontent.com/83281328/144599337-ab14db02-344b-4116-995c-658d6b851661.png)
+![image](https://user-images.githubusercontent.com/83281328/144599369-4c3f494b-d7f7-4dad-9b70-5d8837c28c0f.png)
+
 
 <!---
 josejbracho/josejbracho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
