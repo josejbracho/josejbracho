@@ -1,4 +1,4 @@
-#### Hi, I'm Jose 🦔
+#### Hello! I'm Jose 🦔
 - Web Jedi Apprentice 🖥
 - Baseball Fanatic ⚾️ 
 - Amateur Gamer 👾
