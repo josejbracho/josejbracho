@@ -1,8 +1,7 @@
-#### Hola! I'm Jose
-- Web Jedi Apprentice 🖥
-- Baseball Fanatic ⚾️ 
-- Amateur Gamer 👾
-- Media Consumer 🎥
+#### Hola! I'm Jose 👨🏻‍💻
+Aspiring web developer and front-end programmer. Learning JavaScript, TypeScript and React. 
+
+Probably looking at some baseball stats ⚾️, watching the latest critically aclaimed movie 🎥 or playing the true endgame of any RPG: *Ultimate Space Cowboy Fashion* 👾. 
 
 #### Tools 🛠
 
