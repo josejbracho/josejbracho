@@ -1,5 +1,5 @@
 ### Hola! I'm Jose 👨🏻‍💻
-- Aspiring web developer and front-end programmer. Learning JavaScript, TypeScript and React. 
+- Aspiring mobile and web developer. Learning JavaScript, TypeScript React and React Native. 
 
 - Probably looking at some baseball stats ⚾️, watching the latest critically aclaimed movie 🎥 or playing the true endgame of any RPG: *Ultimate Space Cowboy Fashion* 👾. 
 
